@@ -1,4 +1,4 @@
-# Oligo Design (Oligo Calc.) - offline windows Application
+# Oligo Design (Oligo Calc.) - offline windows App.
 
 An offline standalone application for designing primers or calculating physical properties of your DNA .. Get custome primer designed offline, best matches possible to amplify your input seq., get all primers or probe covering or spanning a long DNA seq region,  or simply use as a calculator for your oligo seqeunce to obtain Reverse complement and other physical properties.
 
