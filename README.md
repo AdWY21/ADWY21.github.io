@@ -2,7 +2,7 @@
 
 An offline standalone application for designing primers or calculating physical properties of your DNA .. Get custome primer designed offline, best matches possible to amplify your input seq., get all primers or probe covering or spanning a long DNA seq region,  or simply use as a calculator for your oligo seqeunce to obtain Reverse complement and other physical properties.
 
-**Tested on Windows System**
+**Version: Windows system distribution package (Compiled Executable)**
 
 ![grafik](https://user-images.githubusercontent.com/87826698/153767152-89475b83-2137-45c2-b7d0-2ecfb668b1ff.png)
 
@@ -40,3 +40,4 @@ pattern defined by the user. For instance if you select 100 at the scale button 
 qPCR primers for chromatin immune ppt - ChIP experiments and other similar once like genome walking.
 
 13= Start a new primer design
+
