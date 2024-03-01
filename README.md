@@ -42,3 +42,5 @@ qPCR primers for chromatin immune ppt - ChIP experiments and other similar once 
 
 13= Start a new primer design
 
+14= Developer information, Dr. Waly Adwy (reach-out at: biotechapps@outlook.de)
+
